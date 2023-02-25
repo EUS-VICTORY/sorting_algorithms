@@ -55,8 +55,10 @@ Write a function that sorts an array of integers in ascending order using the Qu
 12. Dealer
 Write a function that sorts a deck of cards.
 
-AUTHOR:
+AUTHORS:
 
-BY: EUNICE EUNICE
-AND
+EUNICE EUNICE
+
+WITH CONTRIBUTION FROM
+
 KANTHS KANTHS
